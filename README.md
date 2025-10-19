@@ -32,10 +32,7 @@
 ### 📫 Cómo contactarme
 
 <p align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" width="20" height="20" style="vertical-align:middle;"/>
-  &nbsp; garciacuradoaitor@gmail.com
-</p>
+  <img src="https://img.shields.io/badge/Gmail-garciacuradoaitor@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
   <a href="https://www.linkedin.com/in/aitor-garcía-curado"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AitorGC98"><img src="https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 </p>
