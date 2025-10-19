@@ -1,17 +1,40 @@
-# Hola bienvenido a mi GitHub 👋
+<h1 align="center">👋 ¡Hola, bienvenido a mi perfil de github! Soy Aitor García!</h1>
 
-## Aquí guardaré los proyectos importantes que realice en mi formación.
-<!--
-**AitorGC98/AitorGC98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Desarrollador de software | 💻 Apasionada por el Machine Learning y desarrollo y mantenimiento de aplicaiones | 🚀 En constante aprendizaje
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mí
+
+- 🌱 Actualmente estoy perfeccionando mis habilidades en **Machine learning**  
+- 🤖 Me interesa especialmente el **Machine Learning y el desarrollo de aplicaciones**  
+- 📚 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo  
+
+---
+
+### 🛠️ Tecnologías y herramientas que uso
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,git,github,vscode,tensorflow" />
+</p>
+
+---
+
+### 🚀 Algunos de mis proyectos
+
+- 📱 [**Mi App Android**](https://github.com/AitorGC98/GameList)  
+  Aplicación móvil desarrollada con Kotlin y Firebase como proyecto final.
+
+---
+
+### 📫 Cómo contactarme
+
+<p align="center">
+  <a href="garciacuradoaitor@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/tuPerfil](https://www.linkedin.com/in/aitor-garc%C3%ADa-curado"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AGC98"><img src="https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">✨ Gracias por visitar mi perfil ✨</p>
