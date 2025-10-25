@@ -26,7 +26,12 @@
 
 - 📱 [**Mi App Android**](https://github.com/AitorGC98/GameList)  
   Aplicación móvil desarrollada con Kotlin y Firebase como proyecto final.
-
+  
+- 📊 [**Producción Agrícola con Machine Learning**](https://github.com/AitorGC98/ProduccionAgricola_MachineLearning)  
+  Proyecto para aplicar técnicas de Machine Learning a datos de producción agrícola. Incluye análisis, modelado predictivo y visualizaciones de datos.
+  
+- 🎲 [**Análisis de Números de Lotería**](https://github.com/AitorGC98/LoteriaNavidad_DataScience)  
+  Proyecto para analizar estadísticas históricas de la lotería, visualización de patrones y cálculo de probabilidades basadas en datos históricos usando Python y Pandas.
 ---
 
 ### 📫 Cómo contactarme
